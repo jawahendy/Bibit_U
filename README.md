@@ -28,10 +28,10 @@ ________________________________________________________________________________
 for solution 4 Anagram you can run in cmd with command node solution4.js
 
 
-and for other solution can write in solution.text
+and for other solution can write in solution.txt
 _________________________________________________________________________________________________
 
 for solution 3 you can run in cmd with command node solution3.js
 
 
-and for other solution can write in solution.text
+and for other solution can write in solution.txt
