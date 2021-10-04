@@ -1,0 +1,5 @@
+for solution number 1
+
+Sql :
+
+SELECT users.ID, users.UserName, student.UserName FROM users INNER JOIN student ON users.ID=student.ID;

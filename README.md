@@ -1,6 +1,6 @@
 # Bibit_U
 
-
+_____________________________________________________________________________________________________
 For solution number 2
 
 you can clone and install 
@@ -23,7 +23,15 @@ you can run in cmd node index.js and in postman with get method paste this url o
 
 http://localhost:8080/batman
 
+_________________________________________________________________________________________________
+
 for solution 4 Anagram you can run in cmd with command node solution4.js
+
+
+and for other solution can write in solution.text
+_________________________________________________________________________________________________
+
+for solution 3 you can run in cmd with command node solution3.js
 
 
 and for other solution can write in solution.text
