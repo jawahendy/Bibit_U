@@ -27,6 +27,8 @@ http://localhost:8080/batman
 for testing we use mocha install
 
 npm install -g mocha
+npm install chai-http
+
 
 _________________________________________________________________________________________________
 
