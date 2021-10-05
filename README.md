@@ -23,6 +23,11 @@ you can run in cmd node index.js and in postman with get method paste this url o
 
 http://localhost:8080/batman
 
+
+for testing we use mocha install
+
+npm install -g mocha
+
 _________________________________________________________________________________________________
 
 for solution 4 Anagram you can run in cmd with command node solution4.js
